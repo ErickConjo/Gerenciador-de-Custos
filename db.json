@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": "839a",
+      "name": "Projeto Atualizado",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "64e6",
+      "name": "meu projeto 3",
+      "budget": "7000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 6000,
+      "services": [
+        {
+          "name": "teste300",
+          "cost": "6000",
+          "description": "é isso ai mesmo",
+          "id": "b2e3d323-d858-4969-8d97-02d8371c4b76"
+        }
+      ]
+    },
+    {
+      "id": "dc0c",
+      "name": "projeto teste",
+      "budget": "32",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
