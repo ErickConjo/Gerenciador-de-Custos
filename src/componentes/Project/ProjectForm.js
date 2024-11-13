@@ -1,14 +1,10 @@
 import {useState, useEffect} from 'react'
 
-
 import Input from '../Form/Input'
 import Select from '../Form/Select'
 import SubmitButton from '../Form/SubmitButon'
 
-
 import styles from './ProjectForm.module.css'
-
-
 
 
 function ProjectForm ({handleSubmit, btnText, projectData}) {
@@ -52,10 +48,7 @@ function ProjectForm ({handleSubmit, btnText, projectData}) {
             });
         };
         
-        
-
-
-    return(
+        return(
         <form onSubmit={Submit} className= {styles.form}>
             <Input
                 type="text"
